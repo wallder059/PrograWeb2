@@ -1,0 +1,13 @@
+{
+    "proyectos": [
+        {
+            "nombreProyecto": "Ejemplo de Proyecto Personal",
+            "descripcionProyecto": "Puedes describir aquí un proyecto personal si lo deseas",
+            "tecnologias": [
+              "Tecnología 1",
+              "Tecnología 2"
+            ],
+            "enlaceProyecto": "URL_del_Proyecto"
+          }
+    ]
+}

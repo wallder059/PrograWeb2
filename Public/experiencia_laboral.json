@@ -1,0 +1,110 @@
+
+    {
+        "experiencias": [
+          {
+            "cargo": "Jefe de Desarrollo Tecnológico",
+            "empresa": "Banco Fassil S.A.",
+            "ubicacion": "Santa Cruz de la Sierra, Bolivia",
+            "periodo": "Diciembre 2019 - Presente",
+            "responsabilidades": [
+              "Planificar, monitorear, organizar y dirigir a los equipos de desarrollo.",
+              "Coordinar y definir Arquitectura de Software de los proyectos.",
+              "Generar reportes de los resultados de los proyectos y equipos.",
+              "Mantenimiento de la App Banca Móvil Fassil (Android, iOS).",
+              "Desarrollo de la nueva App Banca Móvil Fassil (Híbrida).",
+              "Mantenimiento de FassilNet Web.",
+              "Mantenimiento de APIs."
+            ],
+            "personas_a_cargo": 22
+          },
+          {
+            "cargo": "Analista Senior en Desarrollo Tecnológico",
+            "empresa": "Banco Fassil S.A.",
+            "ubicacion": "Santa Cruz de la Sierra, Bolivia",
+            "periodo": "Diciembre 2017 - Noviembre 2019",
+            "responsabilidades": [
+              "Desarrollo de mantenimiento (Python, Android).",
+              "Desarrollo de seguimiento para supervisores (Android).",
+              "Desarrollo de ChatBot (Python - Django, Pyramid, Flask).",
+              "Sistemas a medida en Ruby on Rails (RoR).",
+              "Desarrollo FrontEnd con Vue.js.",
+              "Actualización de App Banca Móvil en iOS y Android.",
+              "Scrum Master."
+            ],
+            "personas_a_cargo": 4
+          },
+          {
+            "cargo": "Ingeniero de Software",
+            "empresa": "Ticketeg S.R.L.",
+            "ubicacion": "Santa Cruz, Bolivia",
+            "periodo": "Enero 2016 - Noviembre 2017",
+            "responsabilidades": [
+              "Desarrollo de Sistemas a medida en Ruby on Rails (RoR).",
+              "Desarrollo de Sistemas para inmobiliarias y multinivel (RoR).",
+              "Desarrollo de Sistemas de mensajes masivos SMS (RoR).",
+              "Desarrollo de Sistemas de modular con gemas (RoR).",
+              "Desarrollo de Sistemas para parqueos (RoR).",
+              "Desarrollo de aplicaciones móviles (Android Studio).",
+              "Desarrollo de sistema móvil para ingreso de partidos con lectura QR (Android Studio)."
+            ],
+            "personas_a_cargo": 2
+          },
+          {
+            "cargo": "Ingeniero de Software",
+            "empresa": "Qubo Technologies",
+            "ubicacion": "Santa Cruz de la Sierra, Bolivia",
+            "periodo": "Enero 2016 - Noviembre 2017",
+            "responsabilidades": [
+              "Desarrollo de Sistemas a medida en Ruby on Rails (RoR)."
+            ],
+            "personas_a_cargo": 2
+          },
+          {
+            "cargo": "Desarrollo de Sistemas a Medida",
+            "empresa": "V8 S.R.L.",
+            "ubicacion": "Santa Cruz de la Sierra, Bolivia",
+            "periodo": "Noviembre 2014 - Noviembre 2015",
+            "responsabilidades": [
+              "Desarrollo de Sistemas a medida en plataformas Web y Móviles.",
+              "Software a medida en Android e iOS.",
+              "Uso de YII Framework.",
+              "Android Studio: fragments, notificaciones Firebase, mapas, SMS, redes sociales, juegos básicos en 2D, API Restful, ORM Sugar SQLite.",
+              "iOS: ABM, API Restful, Base de Datos SQLite."
+            ]
+          },
+          {
+            "cargo": "Desarrollo de Aplicaciones Móviles",
+            "empresa": "Zoom Bolivia",
+            "ubicacion": "Santa Cruz de la Sierra, Bolivia",
+            "periodo": "Noviembre 2013 - Diciembre 2014",
+            "responsabilidades": [
+              "Desarrollo de página web con PHP, HTML, jQuery.",
+              "Desarrollo de aplicaciones móviles Android (fragments, notificaciones Firebase, mapas, SMS, redes sociales, juegos 2D, API Restful, ORM Sugar SQLite)."
+            ],
+            "personas_a_cargo": 1
+          },
+          {
+            "cargo": "Auxiliar de Laboratorio",
+            "empresa": "Universidad Autónoma Gabriel René Moreno",
+            "ubicacion": "Santa Cruz de la Sierra, Bolivia",
+            "periodo": "Febrero 2013 - Diciembre 2013",
+            "responsabilidades": [
+              "Encargado del mantenimiento y administración de 45 máquinas.",
+              "Instalación y capacitación de programas como SQL Server, GIS, etc.",
+              "Mantenimiento y reparación de computadoras."
+            ],
+            "personas_a_cargo": 3
+          },
+          {
+            "cargo": "Auxiliar de Cátedra",
+            "empresa": "Universidad Autónoma Gabriel René Moreno",
+            "ubicacion": "Santa Cruz de la Sierra, Bolivia",
+            "periodo": "Marzo 2012 - Diciembre 2012",
+            "responsabilidades": [
+              "Colaboración en cursos como introducción a la programación y microprocesadores."
+            ],
+            "personas_a_cargo": 0
+          }
+        ]
+      }
+      

@@ -1,0 +1,34 @@
+{
+    "educacion": [
+      {
+        "institucion": "Universidad Autónoma Gabriel René Moreno",
+        "titulo": "Dirección Estratégica en Ingeniería de Software",
+        "fecha_inicio": "Octubre 2019",
+        "fecha_fin": "En curso"
+      },
+      {
+        "institucion": "Universidad Autónoma Gabriel René Moreno",
+        "titulo": "Educación Superior y Tecnología (Diplomado)",
+        "fecha_inicio": "Julio 2018",
+        "fecha_fin": ""
+      },
+      {
+        "institucion": "Centro Boliviano Americano",
+        "titulo": "Inglés Técnico Avanzado",
+        "fecha_inicio": "Agosto 2013",
+        "fecha_fin": "Noviembre 2015"
+      },
+      {
+        "institucion": "Universidad Autónoma Gabriel René Moreno",
+        "titulo": "Ingeniería en Informática (Licenciatura)",
+        "fecha_inicio": "Febrero 2008",
+        "fecha_fin": "Marzo 2015"
+      },
+      {
+        "institucion": "Hernando Siles Reyes",
+        "titulo": "Bachiller en Humanidades",
+        "fecha_inicio": "Febrero 2003",
+        "fecha_fin": "Noviembre 2007"
+      }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "contacto": {
+      "correo": "adan.condori@example.com",
+      "telefono": "+59170000000",
+      "ubicacion": "Santa Cruz de la Sierra, Bolivia",
+      "linkedin": "https://www.linkedin.com/in/adancondori",
+      "instagram": "https://www.instagram.com/adan.condori",
+      "facebook": "https://www.facebook.com/adan.condori",
+      "github": "https://github.com/adancondori"
+    }
+}

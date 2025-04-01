@@ -1,0 +1,11 @@
+{
+    "habilidades": [
+      { "nombre": "Vue.js", "nivel": "Avanzado" },
+      { "nombre": "Ruby on Rails", "nivel": "Avanzado" },
+      { "nombre": "Android Studio", "nivel": "Avanzado" },
+      { "nombre": "iOS", "nivel": "Intermedio" },
+      { "nombre": "Diseño responsive", "nivel": "Avanzado" },
+      { "nombre": "Usabilidad y experiencia de usuario (UX)", "nivel": "Avanzado" },
+      { "nombre": "Integración con APIs y notificaciones push", "nivel": "Avanzado" }
+    ]
+  }
